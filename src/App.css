@@ -1,0 +1,57 @@
+.header{
+ 
+  color:brown;
+  position:absolute;
+  bottom: 0px;
+  left:250px;
+  font-size: 20px;
+  
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  width: 98.7%;
+  height: 8%;
+  position:absolute;
+  top: 7px;
+  left:10px;
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.Content{
+  text-align: center;
+  font-weight: bold;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .h2{
+    size:100px;
+  }
+
+ .footer{
+   position:absolute;
+   bottom: 0px;
+   
+ }
+ #video{ position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity:0.6;
+
+ }
